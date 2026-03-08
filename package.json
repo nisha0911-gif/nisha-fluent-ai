@@ -2,6 +2,5 @@
   "name": "nisha-fluent-ai",
   "version": "1.0.0",
   "description": "Nisha's Fluent AI",
-  "private": true,
-  "engines": { "node": "18.x" }
+  "private": true
 }
